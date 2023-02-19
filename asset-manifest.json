@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/HeroIcons/static/css/main.74ad4acb.css",
+    "main.js": "/HeroIcons/static/js/main.e0e03464.js",
+    "static/js/787.cda612ba.chunk.js": "/HeroIcons/static/js/787.cda612ba.chunk.js",
+    "index.html": "/HeroIcons/index.html",
+    "main.74ad4acb.css.map": "/HeroIcons/static/css/main.74ad4acb.css.map",
+    "main.e0e03464.js.map": "/HeroIcons/static/js/main.e0e03464.js.map",
+    "787.cda612ba.chunk.js.map": "/HeroIcons/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.74ad4acb.css",
+    "static/js/main.e0e03464.js"
+  ]
+}
